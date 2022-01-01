@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Philipe Leandro.
+- Looking for new paths and IT student
+
+👨🏻‍💻 About Me
+
+Brazil, Single, 25 years old.
+- I am graduated in Civil Engineering (Centro Universitário Paraíso - UniFAP).
 
 <!--
 **philipeleandro/philipeleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

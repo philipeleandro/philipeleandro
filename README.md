@@ -8,13 +8,13 @@
 
 Brazilian, Single, 25 years old.
 
-- I am graduated in Civil Engineering (Centro Universitário Paraíso - UniFAP)
+- I am graduated in Civil Engineering (Centro Universitário Paraíso - UniFAP);
 - Based in Brazil.
 
 ### 🪛 Skills
-- 💎 Ruby
-- 🖥️ Relational Database and SQL
-- 🔗 Git
+- 💎 Ruby;
+- 🖥️ Relational Database and SQL;
+- 🔗 Git.
 <!--
 **philipeleandro/philipeleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

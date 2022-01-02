@@ -18,9 +18,11 @@ Brazilian, Single, 25 years old.
 
 
 <p align="center">
-<a href="https://linkedin.com/in/philipeleandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://www.codewars.com/users/philipeleandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://www.instagram.com/philipeleandro_/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+<a href="https://linkedin.com/in/philipeleandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="20" width="20" /></a>
+<a href="https://www.codewars.com/users/philipeleandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="20" width="20" /></a>
+<a href="https://www.instagram.com/philipeleandro_/" target="blank"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+<a href="https://www.notion.so/Resume-1284c159dc35449f9c2104fee7c9cac3/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg" /></a>
+</a>
 </p>
 <!--
 **philipeleandro/philipeleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

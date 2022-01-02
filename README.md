@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 I'm Philipe Leandro.
-- Looking for new paths and ruby student.
+- I'm a ruby student.
 
 ### 👨🏻‍💻 About Me
 

@@ -15,6 +15,13 @@ Brazilian, Single, 25 years old.
 - 💎 Ruby;
 - 🖥️ Relational Database and SQL;
 - 🔗 Git.
+
+
+<p align="center">
+<a href="https://linkedin.com/in/philipeleandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
+<a href="https://www.codewars.com/users/philipeleandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="apoorvtyagi" height="20" width="20" /></a>
+<a href="https://www.instagram.com/philipeleandro_/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+</p>
 <!--
 **philipeleandro/philipeleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

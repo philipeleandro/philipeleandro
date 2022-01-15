@@ -11,7 +11,7 @@ Brazilian, Single, 25 years old.
 - I am graduated in Civil Engineering (Centro Universitário Paraíso - UniFAP);
 - Based in Brazil.
 
-### 🪛 Skills
+### Skills
 - 💎 Ruby;
 - 🖥️ Relational Database and SQL;
 - 🔗 Git.

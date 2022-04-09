@@ -12,7 +12,7 @@ Brazilian, Single, 25 years old.
 - Based in Brazil.
 
 ### 🛠️ Skills
-- 💎 Ruby;
+- 💎 Ruby on Rails;
 - 🖥️ Relational Database and SQL;
 - 🔗 Git.
 

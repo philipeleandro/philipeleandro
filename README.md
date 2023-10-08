@@ -9,7 +9,6 @@ Brazilian, 26 years old and ruby on rails developer.
 - I am graduated in Civil Engineering (Centro Universitário Paraíso - UniFAP);
 - Based in Brazil;
 - Ruby on rails Developer.
-- Working on Vindi - Developer
 
 ### 🛠️ Skills
 - 💎 Ruby on Rails;
